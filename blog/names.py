@@ -1,0 +1,2 @@
+friend = "Arul"
+print(friend)
